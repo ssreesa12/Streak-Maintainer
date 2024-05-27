@@ -1,0 +1,13 @@
+/* src/CalendarComponent.css */
+.calendar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .star {
+    color: gold;
+    font-size: 20px;
+  }
+  
