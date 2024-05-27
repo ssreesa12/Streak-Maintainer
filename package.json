@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-schedule": "^2.1.0",
+    "react": "^18.2.0",
+    "react-calendar": "^3.7.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
